@@ -1,6 +1,6 @@
 ```
-Name :- Rajalakshmi R
-Reg no :- 23013958
+Name :-  prasanna
+Reg no :- 23003719
 ```
 # Exp-02 Implementation of combinational logic
  
